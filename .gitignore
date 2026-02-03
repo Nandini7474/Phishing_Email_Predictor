@@ -1,0 +1,13 @@
+# Secrets
+credentials.json
+token.pickle
+token.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+*.joblib
