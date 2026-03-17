@@ -1,10 +1,10 @@
 # Models
-*.pkl
+
 *.h5
 *.pt
 *.bin
-models/
-.pickle
+
+
 # Data
 data/
 *.csv
