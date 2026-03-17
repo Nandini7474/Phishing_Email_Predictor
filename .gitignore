@@ -1,13 +1,22 @@
-# Secrets
-credentials.json
-token.pickle
-token.json
-.env
-venv
+# Models
+*.pkl
+*.h5
+*.pt
+*.bin
+models/
+.pickle
+# Data
+data/
+*.csv
+
 # Python
 __pycache__/
 *.pyc
+venv/
+.env
 
-# Models
-*.pkl
-*.joblib
+# Jupyter
+.ipynb_checkpoints/
+
+credentials.json
+token.pickle
